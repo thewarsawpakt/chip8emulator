@@ -1,0 +1,1603 @@
+instruction: INVALID(61461)
+stack=[] pc=2 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: LD_B_VX(0, 0)
+stack=[] pc=4 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: LD_B_VX(0, 0)
+stack=[] pc=6 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: LD_B_VX(0, 0)
+stack=[] pc=8 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: LD_B_VX(0, 0)
+stack=[] pc=10 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: SE_VX_KK(1, 1)
+stack=[] pc=12 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: SE_VX_KK(0, 0)
+stack=[] pc=16 v=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: ADD_VX_KK(1, 1)
+stack=[] pc=18 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: LD_B_VX(1, 1)
+stack=[] pc=20 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: SNE_VX_KK(1, 1)
+stack=[] pc=22 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: SNE_VX_KK(0, 0)
+stack=[] pc=24 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: JP(914)
+stack=[] pc=914 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=916 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=918 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=920 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=922 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=924 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=926 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=928 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=930 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=932 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=934 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=936 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=938 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=940 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=942 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=944 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=946 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=948 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=950 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=952 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=954 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=956 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=958 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=960 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=962 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=964 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=966 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=968 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=970 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=972 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=974 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=976 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=978 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=980 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=982 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=984 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=986 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=988 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=990 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=992 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=994 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=996 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=998 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1000 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1002 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1004 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1006 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1008 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1010 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1012 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1014 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1016 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1018 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1020 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1022 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1024 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1026 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1028 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1030 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1032 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1034 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1036 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1038 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1040 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1042 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1044 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1046 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1048 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1050 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1052 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1054 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1056 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1058 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1060 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1062 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1064 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1066 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1068 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1070 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1072 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1074 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1076 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1078 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1080 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1082 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1084 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1086 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1088 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1090 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1092 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1094 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1096 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1098 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1100 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1102 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1104 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1106 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1108 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1110 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1112 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1114 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1116 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1118 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1120 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1122 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1124 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1126 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1128 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1130 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1132 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1134 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1136 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1138 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1140 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1142 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1144 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1146 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1148 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1150 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1152 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1154 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1156 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1158 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1160 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1162 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1164 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1166 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1168 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1170 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1172 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1174 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1176 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1178 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1180 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1182 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1184 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1186 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1188 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1190 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1192 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1194 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1196 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1198 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1200 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1202 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1204 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1206 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1208 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1210 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1212 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1214 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1216 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1218 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1220 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1222 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1224 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1226 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1228 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1230 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1232 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1234 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1236 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1238 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1240 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1242 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1244 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1246 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1248 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1250 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1252 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1254 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1256 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1258 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1260 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1262 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1264 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1266 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1268 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1270 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1272 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1274 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1276 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1278 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1280 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1282 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1284 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1286 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1288 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1290 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1292 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1294 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1296 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1298 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1300 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1302 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1304 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1306 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1308 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1310 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1312 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1314 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1316 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1318 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1320 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1322 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1324 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1326 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1328 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1330 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1332 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1334 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1336 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1338 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1340 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1342 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1344 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1346 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1348 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1350 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1352 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1354 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1356 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1358 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1360 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1362 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1364 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1366 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1368 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1370 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1372 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1374 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1376 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1378 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1380 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1382 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1384 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1386 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1388 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1390 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1392 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1394 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1396 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1398 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1400 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1402 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1404 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1406 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1408 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1410 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1412 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1414 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1416 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1418 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1420 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1422 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1424 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1426 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1428 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1430 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1432 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1434 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1436 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1438 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1440 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1442 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1444 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1446 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1448 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1450 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1452 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1454 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1456 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1458 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1460 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1462 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1464 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1466 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1468 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1470 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1472 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1474 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1476 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1478 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1480 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1482 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1484 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1486 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1488 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1490 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1492 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1494 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1496 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1498 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1500 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1502 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1504 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1506 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1508 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1510 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1512 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1514 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1516 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1518 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1520 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1522 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1524 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1526 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1528 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1530 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1532 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1534 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1536 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1538 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1540 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1542 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1544 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1546 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1548 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1550 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1552 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1554 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1556 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1558 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1560 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1562 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1564 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1566 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1568 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1570 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1572 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1574 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1576 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1578 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1580 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1582 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1584 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1586 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1588 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1590 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1592 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1594 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1596 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1598 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1600 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1602 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1604 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1606 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1608 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1610 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1612 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1614 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1616 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1618 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1620 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1622 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1624 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1626 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1628 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1630 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1632 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1634 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1636 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1638 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1640 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1642 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1644 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1646 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1648 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1650 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1652 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1654 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1656 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1658 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1660 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1662 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1664 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1666 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1668 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1670 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1672 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1674 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1676 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1678 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1680 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1682 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1684 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1686 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1688 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1690 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1692 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1694 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1696 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1698 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1700 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1702 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1704 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1706 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1708 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1710 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1712 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1714 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1716 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1718 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1720 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1722 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1724 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1726 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1728 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1730 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1732 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1734 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1736 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1738 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1740 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1742 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1744 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1746 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1748 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1750 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1752 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1754 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1756 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1758 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1760 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1762 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1764 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1766 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1768 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1770 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1772 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1774 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1776 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1778 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1780 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1782 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1784 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1786 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1788 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1790 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1792 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1794 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1796 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1798 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1800 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1802 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1804 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1806 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1808 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1810 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1812 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1814 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1816 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1818 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1820 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1822 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1824 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1826 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1828 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1830 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1832 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1834 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1836 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1838 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1840 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1842 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1844 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1846 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1848 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1850 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1852 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1854 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1856 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1858 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1860 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1862 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1864 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1866 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1868 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1870 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1872 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1874 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1876 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1878 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1880 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1882 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1884 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1886 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1888 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1890 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1892 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1894 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1896 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1898 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1900 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1902 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1904 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1906 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1908 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1910 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1912 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1914 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1916 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1918 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1920 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1922 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1924 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1926 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1928 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1930 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1932 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1934 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1936 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1938 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1940 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1942 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1944 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1946 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1948 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1950 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1952 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1954 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1956 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1958 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1960 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1962 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1964 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1966 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1968 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1970 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1972 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1974 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1976 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1978 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1980 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1982 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1984 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1986 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1988 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1990 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1992 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1994 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1996 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=1998 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2000 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2002 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2004 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2006 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2008 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2010 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2012 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2014 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2016 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2018 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2020 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2022 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2024 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2026 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2028 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2030 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2032 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2034 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2036 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2038 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2040 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2042 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2044 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2046 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2048 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2050 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2052 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2054 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2056 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2058 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2060 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2062 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2064 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2066 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2068 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2070 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2072 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2074 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2076 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2078 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2080 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2082 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2084 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2086 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2088 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2090 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2092 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2094 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2096 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2098 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2100 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2102 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2104 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2106 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2108 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2110 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2112 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2114 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2116 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2118 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2120 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2122 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2124 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2126 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2128 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2130 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2132 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2134 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2136 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2138 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2140 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2142 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2144 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2146 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2148 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2150 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2152 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2154 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2156 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2158 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2160 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2162 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2164 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2166 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2168 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2170 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2172 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2174 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2176 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2178 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2180 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2182 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2184 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2186 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2188 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2190 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2192 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2194 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2196 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2198 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2200 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2202 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2204 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2206 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2208 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2210 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2212 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2214 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2216 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2218 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2220 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2222 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2224 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2226 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2228 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2230 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2232 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2234 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2236 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2238 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2240 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2242 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2244 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2246 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2248 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2250 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2252 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2254 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2256 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2258 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2260 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2262 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2264 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2266 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2268 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2270 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2272 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2274 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2276 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2278 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2280 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2282 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2284 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2286 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2288 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2290 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2292 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2294 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2296 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2298 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2300 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2302 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2304 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2306 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2308 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2310 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2312 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2314 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2316 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2318 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2320 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2322 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2324 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2326 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2328 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2330 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2332 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2334 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2336 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2338 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2340 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2342 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2344 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2346 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2348 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2350 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2352 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2354 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2356 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2358 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2360 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2362 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2364 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2366 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2368 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2370 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2372 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2374 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2376 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2378 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2380 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2382 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2384 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2386 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2388 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2390 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2392 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2394 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2396 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2398 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2400 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2402 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2404 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2406 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2408 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2410 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2412 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2414 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2416 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2418 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2420 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2422 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2424 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2426 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2428 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2430 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2432 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2434 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2436 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2438 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2440 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2442 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2444 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2446 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2448 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2450 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2452 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2454 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2456 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2458 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2460 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2462 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2464 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2466 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2468 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2470 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2472 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2474 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2476 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2478 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2480 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2482 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2484 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2486 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2488 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2490 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2492 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2494 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2496 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2498 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2500 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2502 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2504 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2506 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2508 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2510 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2512 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2514 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2516 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2518 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2520 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2522 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2524 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2526 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2528 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2530 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2532 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2534 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2536 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2538 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2540 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2542 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2544 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2546 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2548 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2550 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2552 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2554 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2556 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2558 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2560 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2562 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2564 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2566 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2568 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2570 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2572 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2574 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2576 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2578 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2580 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2582 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2584 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2586 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2588 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2590 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2592 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2594 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2596 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2598 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2600 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2602 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2604 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2606 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2608 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2610 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2612 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2614 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2616 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2618 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2620 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2622 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2624 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2626 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2628 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2630 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2632 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2634 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2636 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2638 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2640 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2642 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2644 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2646 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2648 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2650 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2652 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2654 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2656 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2658 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2660 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2662 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2664 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2666 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2668 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2670 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2672 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2674 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2676 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2678 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2680 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2682 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2684 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2686 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2688 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2690 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2692 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2694 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2696 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2698 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2700 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2702 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2704 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2706 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2708 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2710 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2712 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2714 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2716 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2718 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2720 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2722 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2724 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2726 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2728 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2730 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2732 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2734 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2736 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2738 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2740 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2742 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2744 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2746 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2748 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2750 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2752 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2754 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2756 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2758 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2760 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2762 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2764 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2766 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2768 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2770 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2772 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2774 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2776 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2778 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2780 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2782 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2784 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2786 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2788 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2790 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2792 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2794 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2796 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2798 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2800 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2802 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2804 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2806 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2808 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2810 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2812 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2814 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2816 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2818 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2820 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2822 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2824 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2826 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2828 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2830 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2832 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2834 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2836 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2838 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2840 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2842 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2844 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2846 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2848 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2850 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2852 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2854 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2856 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2858 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2860 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2862 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2864 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2866 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2868 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2870 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2872 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2874 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2876 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2878 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2880 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2882 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2884 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2886 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2888 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2890 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2892 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2894 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2896 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2898 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2900 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2902 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2904 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2906 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2908 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2910 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2912 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2914 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2916 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2918 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2920 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2922 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2924 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2926 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2928 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2930 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2932 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2934 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2936 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2938 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2940 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2942 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2944 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2946 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2948 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2950 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2952 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2954 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2956 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2958 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2960 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2962 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2964 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2966 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2968 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2970 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2972 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2974 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2976 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2978 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2980 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2982 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2984 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2986 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2988 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2990 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2992 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2994 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2996 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=2998 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3000 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3002 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3004 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3006 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3008 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3010 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3012 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3014 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3016 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3018 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3020 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3022 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3024 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3026 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3028 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3030 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3032 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3034 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3036 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3038 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3040 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3042 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3044 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3046 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3048 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3050 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3052 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3054 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3056 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3058 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3060 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3062 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3064 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3066 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3068 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3070 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3072 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3074 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3076 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3078 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3080 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3082 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3084 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3086 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3088 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3090 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3092 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3094 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3096 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3098 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3100 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3102 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3104 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3106 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3108 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3110 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3112 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3114 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3116 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3118 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3120 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3122 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3124 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3126 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3128 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3130 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3132 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3134 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3136 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3138 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3140 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3142 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3144 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3146 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3148 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3150 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3152 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3154 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3156 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3158 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3160 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3162 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3164 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3166 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3168 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3170 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3172 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3174 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3176 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3178 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3180 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3182 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3184 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3186 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3188 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3190 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3192 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3194 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3196 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3198 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3200 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3202 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3204 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3206 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3208 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3210 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3212 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3214 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3216 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3218 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3220 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3222 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3224 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3226 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3228 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3230 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3232 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3234 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3236 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3238 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3240 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3242 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3244 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3246 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3248 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3250 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3252 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3254 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3256 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3258 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3260 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3262 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3264 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3266 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3268 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3270 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3272 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3274 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3276 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3278 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3280 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3282 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3284 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3286 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3288 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3290 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3292 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3294 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3296 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3298 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3300 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3302 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3304 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3306 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3308 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3310 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3312 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3314 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3316 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3318 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3320 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3322 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3324 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3326 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3328 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3330 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3332 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3334 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3336 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3338 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3340 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3342 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3344 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3346 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3348 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3350 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3352 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3354 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3356 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3358 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3360 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3362 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3364 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3366 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3368 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3370 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3372 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3374 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3376 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3378 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3380 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3382 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3384 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3386 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3388 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3390 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3392 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3394 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3396 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3398 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3400 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3402 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3404 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3406 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3408 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3410 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3412 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3414 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3416 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3418 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3420 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3422 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3424 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3426 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3428 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3430 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3432 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3434 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3436 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3438 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3440 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3442 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3444 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3446 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3448 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3450 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3452 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3454 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3456 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3458 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3460 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3462 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3464 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3466 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3468 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3470 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3472 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3474 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3476 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3478 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3480 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3482 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3484 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3486 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3488 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3490 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3492 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3494 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3496 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3498 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3500 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3502 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3504 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3506 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3508 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3510 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3512 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3514 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3516 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3518 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3520 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3522 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3524 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3526 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3528 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3530 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3532 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3534 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3536 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3538 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3540 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3542 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3544 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3546 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3548 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3550 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3552 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3554 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3556 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3558 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3560 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3562 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3564 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3566 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3568 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3570 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3572 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3574 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3576 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3578 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3580 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3582 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3584 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3586 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3588 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3590 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3592 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3594 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3596 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3598 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3600 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3602 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3604 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3606 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3608 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3610 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3612 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3614 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3616 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3618 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3620 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3622 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3624 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3626 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3628 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3630 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3632 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3634 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3636 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3638 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3640 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3642 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3644 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3646 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3648 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3650 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3652 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3654 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3656 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3658 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3660 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3662 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3664 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3666 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3668 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3670 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3672 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3674 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3676 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3678 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3680 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3682 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3684 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3686 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3688 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3690 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3692 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3694 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3696 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3698 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3700 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3702 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3704 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3706 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3708 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3710 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3712 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3714 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3716 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3718 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3720 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3722 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3724 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3726 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3728 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3730 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3732 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3734 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3736 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3738 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3740 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3742 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3744 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3746 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3748 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3750 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3752 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3754 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3756 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3758 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3760 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3762 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3764 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3766 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3768 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3770 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3772 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3774 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3776 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3778 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3780 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3782 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3784 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3786 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3788 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3790 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3792 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3794 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3796 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3798 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3800 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3802 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3804 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3806 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3808 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3810 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3812 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3814 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3816 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3818 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3820 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3822 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3824 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3826 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3828 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3830 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3832 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3834 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3836 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3838 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3840 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3842 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3844 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3846 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3848 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3850 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3852 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3854 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3856 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3858 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3860 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3862 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3864 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3866 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3868 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3870 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3872 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3874 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3876 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3878 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3880 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3882 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3884 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3886 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3888 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3890 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3892 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3894 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3896 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3898 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3900 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3902 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3904 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3906 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3908 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3910 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3912 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3914 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3916 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3918 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3920 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3922 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3924 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3926 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3928 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3930 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3932 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3934 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3936 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3938 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3940 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3942 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3944 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3946 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3948 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3950 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3952 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3954 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3956 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3958 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3960 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3962 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3964 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3966 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3968 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3970 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3972 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3974 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3976 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3978 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3980 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3982 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3984 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3986 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3988 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3990 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3992 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3994 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3996 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=3998 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4000 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4002 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4004 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4006 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4008 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4010 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4012 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4014 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4016 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4018 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4020 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4022 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4024 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4026 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4028 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4030 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4032 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4034 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4036 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4038 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4040 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4042 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4044 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4046 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4048 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4050 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4052 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4054 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4056 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4058 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4060 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4062 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4064 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4066 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4068 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4070 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4072 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4074 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4076 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4078 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4080 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4082 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4084 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4086 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4088 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4090 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4092 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0instruction: INVALID(0)
+stack=[] pc=4094 v=[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] i=0 dt=0 st=0
